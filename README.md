@@ -1,6 +1,6 @@
 # iOSProject
 
-Example of iOS App for iPhone: Expenses Tracker:
+Example of iOS App for iPhone - "Expenses Tracker"
 
 - Keep track of user money expenses.
 - Application organizes and keeps information for each day.
