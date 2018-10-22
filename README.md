@@ -9,5 +9,5 @@ Example of iOS App for iPhone - "Expenses Tracker"
 - The user can add a new category.
 
 Application developed in italian language.
-L'app è stata sviluppata in italiano.
+Applicazione sviluppata in italiano.
 
